@@ -11,7 +11,7 @@ Le but est de créer le jeu Memory
 - Le joueur gagne s'il arrive à découvrir toutes les paires avant la fin du temps imparti
 
 ## Résultat attendu
-- Créer le jeu en react / redux
+- Créer le jeu en react / redux avec typescript
 - La répartition des cartes doit être aléatoire à chaque jeu
 - Précisions CSS : SASS ou autre préprocesseur encouragé
 - Cartes à jouer, vous pouvez utilisez les images que vous souhaiter
